@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src ="https://c.tenor.com/t8rhJofwGD8AAAAC/ok-mickey-mouse.gif" aling="right" width="400" height="250">
+
+### deneme 🐊
 
 <!--
 **katliamsgo/katliamsgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
