@@ -1,7 +1,11 @@
 ### Hi there 👋
-<img src ="https://c.tenor.com/t8rhJofwGD8AAAAC/ok-mickey-mouse.gif" aling="right" width="400" height="250">
+<img src ="https://camo.githubusercontent.com/6c83d44cce2207f2ebe74e1164eab7b6c91a6f97912817de565345186914c44f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38662f39312f32382f38663931323839366163343932326461623862633663346333636265646335622e676966" aling="right" width="400" height="250">
 
-### deneme 🐊
+### reach out to me
+
+[<img height="32" width="32" src="https://www.omnicoreagency.com/wp-content/uploads/2018/02/Youtube-Logo-300x211.png" />][youtube]
+
+[youtube]:https://www.youtube.com/channel/UCxLH__BWSkLbMklWzAGQrOg
 
 <!--
 **katliamsgo/katliamsgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
