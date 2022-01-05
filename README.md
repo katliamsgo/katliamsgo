@@ -5,7 +5,10 @@
 
 [<img height="32" width="32" src="https://www.omnicoreagency.com/wp-content/uploads/2018/02/Youtube-Logo-300x211.png" />][youtube]
 
+[<img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAL_64_TWgeCUjN_BKha-XHz3QwpcygKh_gA&usqp=CAU" />][ins]
+
 [youtube]:https://www.youtube.com/channel/UCxLH__BWSkLbMklWzAGQrOg
+[ins]:https://www.instagram.com/salihkanak1/
 
 <!--
 **katliamsgo/katliamsgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
