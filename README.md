@@ -21,8 +21,11 @@
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=katliamsgo" alt=katliamsgo" /></p>
   
  
-
-
+<img src="https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg"   >
+   
+### Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+- [ The Catch Block #88 - Mini C# Extension Methods ](https://exceptionnotfound.net/the-catch-block-88-mini-c-extension-methods/)
 
 [youtube]:https://www.youtube.com/channel/UCxLH__BWSkLbMklWzAGQrOg
 [ins]:https://www.instagram.com/salihkanak1/
