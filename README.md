@@ -14,7 +14,8 @@
 
 
    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=katliamsgo&theme=radical)
-   ![My most used languages](https://github-readme-stats.vercel.app/api?username=katliamsgo&theme=radical)
+   
+   ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salih&layout=compact)
    
    
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=katliamsgo" alt=katliamsgo" /></p>
