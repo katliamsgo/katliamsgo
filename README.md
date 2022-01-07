@@ -4,8 +4,24 @@
 ### reach out to me
 
 [<img height="32" width="32" src="https://www.omnicoreagency.com/wp-content/uploads/2018/02/Youtube-Logo-300x211.png" />][youtube]
-
 [<img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAL_64_TWgeCUjN_BKha-XHz3QwpcygKh_gA&usqp=CAU" />][ins]
+<br />
+<br />
+
+
+### Tech I use
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50"  > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50"  > <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="50" height="50"  > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50"  >
+
+
+   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=katliamsgo&theme=radical)
+   ![My most used languages](https://github-readme-stats.vercel.app/api?username=katliamsgo&theme=radical)
+   
+   
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=katliamsgo" alt=katliamsgo" /></p>
+  
+ 
+
+
 
 [youtube]:https://www.youtube.com/channel/UCxLH__BWSkLbMklWzAGQrOg
 [ins]:https://www.instagram.com/salihkanak1/
